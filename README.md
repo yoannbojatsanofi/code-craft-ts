@@ -33,14 +33,6 @@ Welcome to CodeCraft-TS, the ultimate playground for mastering functional design
     pnpm run dev
     ```
 
-## 🤝 Contribution
-
-Contributions are more than welcome! Feel the thrill of contributing to a project that's set to skyrocket your engineering skills.
-
-## 📖 License
-
-This project is licensed under the MIT License.
-
 ---
 
 Unleash your potential and become a design patterns maestro today! 🌟
