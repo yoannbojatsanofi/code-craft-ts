@@ -10,11 +10,22 @@ Welcome to CodeCraft-TS, the ultimate playground for mastering functional design
 
 ## 📚 Design Patterns Covered
 
-- [Factory](./path/to/factory/example)
+### 👨‍🎨 Creational Patterns
+- [Abstract Factory](./path/to/factory/example)
+- [Builder](./path/to/factory/example)
+- [Factory Method](./path/to/factory/example)
+- [Prototype](./path/to/factory/example)
 - [Singleton](./path/to/singleton/example)
 - [Observer](./path/to/observer/example)
-- [Strategy](./path/to/strategy/example)
+
+### 🏛️ Structural Patterns
+- [Adaptaer](./path/to/strategy/example)
 - [And many more...](./path/to/other/examples)
+
+### 🏛️ Behavioral Patterns
+- [Chain of Responsability](./path/to/strategy/example)
+- [And many more...](./path/to/other/examples)
+
 
 ## 🛠️ Setup & Usage
 
