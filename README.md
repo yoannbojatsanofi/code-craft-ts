@@ -1,49 +1,34 @@
-# CodeCraft-TS 🚀
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Welcome to CodeCraft-TS, the ultimate playground for mastering functional design patterns in TypeScript! Elevate your coding skills to the next level.
+## Getting Started
 
-## 🎯 Goals
+First, run the development server:
 
-- **Master Design Patterns**: Get hands-on experience implementing a wide array of design patterns.
-- **Functional Programming**: All examples are implemented in a functional style—no OOP, no classes!
-- **SOLID & Clean Code**: Learn how to write robust, maintainable code by adhering to SOLID principles and clean code practices.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-## 📚 Design Patterns Covered
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### 👨‍🎨 Creational Patterns
-- [Abstract Factory](./path/to/factory/example)
-- [Builder](./path/to/factory/example)
-- [Factory Method](./path/to/factory/example)
-- [Prototype](./path/to/factory/example)
-- [Singleton](./path/to/singleton/example)
-- [Observer](./path/to/observer/example)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### 🏛️ Structural Patterns
-- [Adaptaer](./path/to/strategy/example)
-- [And many more...](./path/to/other/examples)
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-### 🏛️ Behavioral Patterns
-- [Chain of Responsability](./path/to/strategy/example)
-- [And many more...](./path/to/other/examples)
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-## 🛠️ Setup & Usage
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. **Clone the Repository**
-    ```bash
-    git clone [Repository_URL]
-    ```
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-2. **Install Dependencies**
-    ```bash
-    pnpm install
-    ```
+## Deploy on Vercel
 
-3. **Run the Examples**
-    ```bash
-    pnpm run dev
-    ```
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-Unleash your potential and become a design patterns maestro today! 🌟
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

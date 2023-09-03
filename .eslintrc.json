@@ -1,0 +1,16 @@
+{
+  "extends": ["airbnb-typescript", "plugin:testing-library/react"],
+  "plugins": ["testing-library"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "react/jsx-filename-extension": [1,
+      {
+        "extensions": [
+          ".tsx"
+        ]
+      }
+    ]
+  }
+}
